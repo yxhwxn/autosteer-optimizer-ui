@@ -2,6 +2,10 @@
 
 **TPC-H SQL Optimizer** is a web application designed to optimize SQL queries for the **TPC-H dataset** using the **GPT API**. The tool analyzes user-provided database schemas and SQL queries to propose **optimization strategies** and generates optimized SQL queries along with detailed explanations.
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/0d9d743b-7344-4e85-b164-7bd80143c630
+
 ---
 
 ## 🛠️ Features
